@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" style="margin: auto; background: rgba(0, 0, 0, 0) none repeat scroll 0% 0%; display: block; shape-rendering: auto;" width="220px" height="200px" viewBox="0 0 100 100" preserveAspectRatio="xMidYMid">
+<g>
+  <circle cx="70" cy="50" r="4" fill="#7df9ff">
+    <animate attributeName="cx" repeatCount="indefinite" dur="1s" values="100;25" keyTimes="0;1" begin="-0.67s"></animate>
+    <animate attributeName="fill-opacity" repeatCount="indefinite" dur="1s" values="0;1;1" keyTimes="0;0.25;1" begin="-0.67s"></animate>
+  </circle>
+  <circle cx="70" cy="50" r="4" fill="#7df9ff">
+    <animate attributeName="cx" repeatCount="indefinite" dur="1s" values="100;25" keyTimes="0;1" begin="-0.33s"></animate>
+    <animate attributeName="fill-opacity" repeatCount="indefinite" dur="1s" values="0;1;1" keyTimes="0;0.25;1" begin="-0.33s"></animate>
+  </circle>
+  <circle cx="70" cy="50" r="4" fill="#7df9ff">
+    <animate attributeName="cx" repeatCount="indefinite" dur="1s" values="100;25" keyTimes="0;1" begin="0s"></animate>
+    <animate attributeName="fill-opacity" repeatCount="indefinite" dur="1s" values="0;1;1" keyTimes="0;0.25;1" begin="0s"></animate>
+  </circle>
+</g><g transform="translate(-25 0)">
+  <path d="M50 50L20 50A30 30 0 0 0 80 50Z" fill="#ffe302" transform="rotate(90 50 50)"></path>
+  <path d="M50 50L20 50A30 30 0 0 0 80 50Z" fill="#ffe302">
+    <animateTransform attributeName="transform" type="rotate" repeatCount="indefinite" dur="0.667s" values="0 50 50;45 50 50;0 50 50" keyTimes="0;0.5;1"></animateTransform>
+  </path>
+  <path d="M50 50L20 50A30 30 0 0 1 80 50Z" fill="#ffe302">
+    <animateTransform attributeName="transform" type="rotate" repeatCount="indefinite" dur="0.667s" values="0 50 50;-45 50 50;0 50 50" keyTimes="0;0.5;1"></animateTransform>
+  </path>
+</g>
+<!-- Modified [ldio] --></svg>
