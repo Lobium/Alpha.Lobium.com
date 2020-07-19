@@ -50,4 +50,4 @@ Saturday,
 TBD
 (CEST)
 var countDownDate = new Date("Aug 1, 2020 23:59:59").getTime();
-var now = new Date().</description></item><item><title>Work in Progress</title><link>https://www.lobium.com/upcoming/assets/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.lobium.com/upcoming/assets/</guid><description>See profiles as such as player, caster or host profiles.</description></item></channel></rss>
+var now = new Date().</description></item></channel></rss>
