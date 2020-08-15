@@ -1,13 +1,25 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Ts on Lobium Alpha</title><link>https://www.lobium.com/t/</link><description>Recent content in Ts on Lobium Alpha</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><atom:link href="https://www.lobium.com/t/index.xml" rel="self" type="application/rss+xml"/><item><title>20 Lobium Alpha CS:GO TR University Open 5v5 Testing Cup #1</title><link>https://www.lobium.com/t/20lactuo5tc1/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.lobium.com/t/20lactuo5tc1/</guid><description>This tournament has ended. The winner is Akdeniz University, congratulations!
-
+Game
+Name
+Region
+Date
+CS:GO
 Lobium Alpha University Open 5v5 Testing Cup #1
 TR
 Saturday, 08-Feb-20
 The tournament matches is going to start on 8th of February 2020 at 02:00 PM (UTC +03 / Istanbul). Brackets are going to have double elimination schedule with best of one matches while the grand final being best of three.</description></item><item><title>20 Lobium Alpha QC EU Invitational 2v2 Tournament #1</title><link>https://www.lobium.com/t/20laqei2t1/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.lobium.com/t/20laqei2t1/</guid><description>We decided to bring some fresh air into the competitive scene of Quake Champions with some 2v2 TDM's! We will invite 16 players (8 teams) to compete against each other in 2v2 TDM format.
-
+window.addEventListener('DOMContentLoaded', function () {
+var galley = document.getElementById('gallery-20laqei2t1_post_presentedby.jpg');
+var viewer = new Viewer(galley, {
+navbar: false
+});
+});
+Game
+Name
+Region
+Date
+Time
+QC
 Lobium Alpha Invitational 2v2 Tournament #1
 EU/CIS
-Saturday,
-01-Aug-20
-TBD (CEST)
-</description></item></channel></rss>
+Saturday,</description></item></channel></rss>
