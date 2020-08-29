@@ -1,10 +1,17 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Lobium Alpha</title><link>https://www.lobium.com/</link><description>Recent content on Lobium Alpha</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><atom:link href="https://www.lobium.com/index.xml" rel="self" type="application/rss+xml"/><item><title/><link>https://www.lobium.com/assets/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.lobium.com/assets/</guid><description>About Us
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Lobium Alpha</title><link>https://alpha.lobium.com/</link><description>Recent content on Lobium Alpha</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><atom:link href="https://alpha.lobium.com/index.xml" rel="self" type="application/rss+xml"/><item><title/><link>https://alpha.lobium.com/assets/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://alpha.lobium.com/assets/</guid><description>About Us
 We are a fresh team that just started developing Lobium on the Alpha stage. As the team, we provide tournaments across selective competitive games and work on technologies to improve competitive gaming.
 We aim to get to the beta stage in the third quarter of 2021.
 Download All of Our Assets
 Our Placeholder Logo
 Lobium Alpha
-We do not prefer to use a logo until we progress further.</description></item><item><title/><link>https://www.lobium.com/tournaments/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.lobium.com/tournaments/</guid><description>Upcoming
+We do not prefer to use a logo until we progress further.</description></item><item><title/><link>https://alpha.lobium.com/tournaments/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://alpha.lobium.com/tournaments/</guid><description>Upcoming
+Game
+Name
+Region
+Date
+TBA
+End
+Past
 Game
 Name
 Region
@@ -13,21 +20,15 @@ QC
 Lobium Alpha Invitational 2v2 Tournament #1
 EU/CIS
 Saturday, 15-Aug-20
-End
-Past
-Game
-Name
-Region
-Date
 CS:GO
 Lobium Alpha University Open 5v5 Testing Cup #1
 TR
 Saturday, 08-Feb-20
-End</description></item><item><title/><link>https://www.lobium.com/upcoming/profiles/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.lobium.com/upcoming/profiles/</guid><description>You will be able to:
+End</description></item><item><title/><link>https://alpha.lobium.com/upcoming/profiles/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://alpha.lobium.com/upcoming/profiles/</guid><description>You will be able to:
 See profiles as such as player, caster or host profiles.
 Work
 in
-Progress</description></item><item><title>20 Lobium Alpha CS:GO TR University Open 5v5 Testing Cup #1</title><link>https://www.lobium.com/t/20lactuo5tc1/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.lobium.com/t/20lactuo5tc1/</guid><description>This tournament has ended. The winner is Akdeniz University, congratulations!
+Progress</description></item><item><title>20 Lobium Alpha CS:GO TR University Open 5v5 Testing Cup #1</title><link>https://alpha.lobium.com/t/20lactuo5tc1/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://alpha.lobium.com/t/20lactuo5tc1/</guid><description>This tournament has ended. The winner is Akdeniz University, congratulations!
 Game
 Name
 Region
@@ -36,7 +37,8 @@ CS:GO
 Lobium Alpha University Open 5v5 Testing Cup #1
 TR
 Saturday, 08-Feb-20
-The tournament matches is going to start on 8th of February 2020 at 02:00 PM (UTC +03 / Istanbul). Brackets are going to have double elimination schedule with best of one matches while the grand final being best of three.</description></item><item><title>20 Lobium Alpha QC EU Invitational 2v2 Tournament #1</title><link>https://www.lobium.com/t/20laqei2t1/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.lobium.com/t/20laqei2t1/</guid><description>We decided to bring some fresh air into the competitive scene of Quake Champions with some 2v2 TDM's! We will invite 16 players (8 teams) to compete against each other in 2v2 TDM format.
+The tournament matches is going to start on 8th of February 2020 at 02:00 PM (UTC +03 / Istanbul). Brackets are going to have double elimination schedule with best of one matches while the grand final being best of three.</description></item><item><title>20 Lobium Alpha QC EU Invitational 2v2 Tournament #1</title><link>https://alpha.lobium.com/t/20laqei2t1/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://alpha.lobium.com/t/20laqei2t1/</guid><description>This tournament has ended. The winners are RAISY &amp; VENGEUR, congratulations!
+We decided to bring some fresh air into the competitive scene of Quake Champions with some 2v2 TDM's! We will invite 16 players (8 teams) to compete against each other in 2v2 TDM format.
 window.addEventListener('DOMContentLoaded', function () {
 var galley = document.getElementById('gallery-20laqei2t1_post_presentedby.jpg');
 var viewer = new Viewer(galley, {
